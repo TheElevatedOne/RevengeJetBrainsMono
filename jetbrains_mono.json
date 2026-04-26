@@ -3,7 +3,7 @@
   "name": "JetBrains Mono",
   "previewText": "JetBrains Mono for Revenge Discord Mod",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://direct-url-to/font-file.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/ExtraBold.ttf",
     "ggsans-Bold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/Regular.ttf",
     "ggsans-BoldItalic": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Italic/Italic.ttf",
     "ggsans-ExtraBold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/ExtraBold.ttf",
@@ -14,12 +14,12 @@
     "ggsans-NormalItalic": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Italic/ThinItalic.ttf",
     "ggsans-Semibold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/Bold.ttf",
     "ggsans-SemiboldItalic": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Italic/BoldItalic.ttf",
-    "NotoSans-Bold": "https://direct-url-to/font-file.ttf",
-    "NotoSans-ExtraBold": "https://direct-url-to/font-file.ttf",
-    "NotoSans-Medium": "https://direct-url-to/font-file.ttf",
-    "NotoSans-Normal": "https://direct-url-to/font-file.ttf",
-    "NotoSans-NormalItalic": "https://direct-url-to/font-file.ttf",
-    "NotoSans-Semibold": "https://direct-url-to/font-file.ttf",
+    "NotoSans-Bold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/ExtraBold.ttf",
+    "NotoSans-Medium": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/Medium.ttf",
+    "NotoSans-Normal": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/Regular.ttf",
+    "NotoSans-NormalItalic": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Italic/Italic.ttf",
+    "NotoSans-Semibold": "https://github.com/TheElevatedOne/RevengeJetbrainsMono/raw/refs/heads/main/JetBrainsMono/Regular/SemiBold.ttf",
     "SourceCodePro-Semibold": "https://direct-url-to/font-file.ttf"
   }
 }
