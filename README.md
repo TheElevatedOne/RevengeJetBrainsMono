@@ -1,2 +1,2 @@
-# revenge-custom-fonts
-Font repository for Revenge (Discord Mobile Modification)
+# RevengeJetbrainsMono
+Font Repository for Jetbrains Mono based Custom Font JSON for Revenge Discord Mod
