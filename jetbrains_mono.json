@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "JetBrains Mono",
+  "previewText": "JetBrains Mono for Revenge Discord Mod",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://direct-url-to/font-file.ttf",
+    "ggsans-Bold": "https://direct-url-to/font-file.ttf",
+    "ggsans-BoldItalic": "https://direct-url-to/font-file.ttf",
+    "ggsans-ExtraBold": "https://direct-url-to/font-file.ttf",
+    "ggsans-ExtraBoldItalic": "https://direct-url-to/font-file.ttf",
+    "ggsans-Medium": "https://direct-url-to/font-file.ttf",
+    "ggsans-MediumItalic": "https://direct-url-to/font-file.ttf",
+    "ggsans-Normal": "https://direct-url-to/font-file.ttf",
+    "ggsans-NormalItalic": "https://direct-url-to/font-file.ttf",
+    "ggsans-Semibold": "https://direct-url-to/font-file.ttf",
+    "ggsans-SemiboldItalic": "https://direct-url-to/font-file.ttf",
+    "NotoSans-Bold": "https://direct-url-to/font-file.ttf",
+    "NotoSans-ExtraBold": "https://direct-url-to/font-file.ttf",
+    "NotoSans-Medium": "https://direct-url-to/font-file.ttf",
+    "NotoSans-Normal": "https://direct-url-to/font-file.ttf",
+    "NotoSans-NormalItalic": "https://direct-url-to/font-file.ttf",
+    "NotoSans-Semibold": "https://direct-url-to/font-file.ttf",
+    "SourceCodePro-Semibold": "https://direct-url-to/font-file.ttf"
+  }
+}
